@@ -1,6 +1,7 @@
 # Collection of useful links
 
 ## Other collections of useful links
+* https://github.com/sindresorhus/awesome
 * https://github.com/sindresorhus/awesome-nodejs
 
 ## Conventions
