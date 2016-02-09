@@ -4,7 +4,7 @@
 * https://github.com/sindresorhus/awesome
 * https://github.com/sindresorhus/awesome-nodejs
 * https://github.com/jbranchaud/til
-* 
+
 ## Conventions
 * https://github.com/airbnb/javascript
 
