@@ -4,6 +4,9 @@
 * https://github.com/sindresorhus/awesome
 * https://github.com/sindresorhus/awesome-nodejs
 * https://github.com/jbranchaud/til
+* https://til.hashrocket.com/
+* https://github.com/jwworth/til
+* https://github.com/thoughtbot/til
 
 ## Conventions
 * https://github.com/airbnb/javascript
