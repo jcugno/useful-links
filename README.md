@@ -1,12 +1,16 @@
 # Collection of useful links
 
 ## Other collections of useful links
-* https://github.com/sindresorhus/awesome
-* https://github.com/sindresorhus/awesome-nodejs
+* [All Things Awesome](https://github.com/sindresorhus/awesome)
+* [Nodejs Awesome](https://github.com/sindresorhus/awesome-nodejs)
 * https://github.com/jbranchaud/til
 * https://til.hashrocket.com/
 * https://github.com/jwworth/til
 * https://github.com/thoughtbot/til
+
+## Data & Processing
+* [Apache Data Projects](https://www.linux.com/news/rise-six-unsung-apache-big-data-projects)
+* 
 
 ## Conventions
 * https://github.com/airbnb/javascript
